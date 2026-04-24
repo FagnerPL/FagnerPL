@@ -2,8 +2,7 @@
 ### fagnerpereira96@outlook.com | 11 - 996442965 | São Paulo - Br
 
 ## PERFIL<br>
-Profissional com sólida experiência em suporte técnico, especializado em resolução de problemas, atendimento ao cliente e gestão de ambientes de TI. <br>
-Atualmente em transição de carreira para a área de desenvolvimento, com foco em front-end, back-end e banco de dados.
+Profissional com sólida experiência em suporte técnico, especializado em resolução de problemas, atendimento ao cliente e gestão de ambientes de TI. Atualmente cursando Análise e Desenvolvimento de Sistemas com foco em programação, automação, banco de dados e integração com IA. Busco combinar a visão do suporte com o desenvolvimento para entregar resultados com mais eficiência e solucionar problemas mais complexos.
 
 ## HABILIDADES
 ### Front-end development: JavaScript, CSS3, HTML5
